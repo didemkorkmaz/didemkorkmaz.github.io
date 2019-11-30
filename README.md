@@ -6,7 +6,7 @@ Lead Data Scientist at test IO
 
 - 2017- _now_        **test IO**, _Berlin_
   - Data Scientist / Lead Data Scientist
-- 2011-2016        **Center for Integrative Neuroscience**, Tuebingen
+- 2011-2016        **Center for Integrative Neuroscience**, _Tuebingen_
   - PhD student/ researcher in Neuroscience
   
  ### Education
