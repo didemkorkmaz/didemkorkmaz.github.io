@@ -9,7 +9,7 @@ Lead Data Scientist at test IO
 - 2011-2016        **Center for Integrative Neuroscience**, _Tuebingen_
   - PhD student/ researcher in Neuroscience
   
- ### Education
+### Education
  - 2016        PhD, Neuroscience
  - 2011        MSc, Molecular Biology,Genetics and Biotechnology
  - 2009        BSc, Computer Engineering
